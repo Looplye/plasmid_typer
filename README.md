@@ -26,7 +26,7 @@ PlasmidTyper takes one or more plasmid sequences (`fasta`) and classifies them i
 2. **MMseqs2 search & filtering** — each plasmid is searched against the marker database then hits below per-marker thresholds (qcov, tcov, pident) are removed (results written to `MMseqs2_res.tsv`)
 3. **Typing** — hits are scored using the the AI model (results written to `results.tsv` and `predictions_stats.tsv` for more details on the scoring part.)
 
-<img src="plasmid_typer/database/PlasmidTyper_pipeline.jpg" alt="PlasmidTyper_pipeline" width="400" height="650">
+<img src="PlasmidTyper_pipeline.jpg" width="400" height="650">
 
 
 #### Why?
