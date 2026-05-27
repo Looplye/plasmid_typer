@@ -3,15 +3,15 @@
 Command-line tool for automated plasmid family classification using protein marker search and a machine learning model (pytorch).
 
 ---
-                                                                    𖣔
-                 ⋆                                                                          ✶
-                           ⭑               ✶                                 ⋆                                ✶
-                                ✯                    ⭒                            ✧
-                                                            ꧁ 𝓟𝓵𝓪𝓼𝓶𝓲𝓭𝓣𝔂𝓹𝓮𝓻 ꧂                      ⋆
-                    ⭒                            ✧
-                                        ⭑                                       ⭑             ✲
-                            ⋆                           ✶                                              ⭒
-                                                                    𖣔
+                                                                𖣔
+             ⋆                                                                          ✶
+                       ⭑               ✶                                 ⋆                                ✶
+                            ✯                    ⭒                            ✧
+                                                        ꧁ 𝓟𝓵𝓪𝓼𝓶𝓲𝓭𝓣𝔂𝓹𝓮𝓻 ꧂                      ⋆
+                ⭒                            ✧
+                                    ⭑                                       ⭑             ✲
+                        ⋆                           ✶                                              ⭒
+                                                                𖣔
 ---
 
 ## Documentation
